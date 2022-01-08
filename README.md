@@ -4,6 +4,7 @@ This plugin allows you to replace the menu backgrounds of Chromapper with your o
 
 (This plugin only allows .png, .jpg, and .jpeg images.)
 (not tested for macos or linux so hopefully it works there!)
+(this may slow down loading screens a bit)
 
 # How To Use
 
