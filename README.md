@@ -2,7 +2,8 @@
 
 This plugin allows you to replace the menu backgrounds of Chromapper with your own images!
 
-(This plugin only allows .png, .jpg, and .jpeg format images.)
+(This plugin only allows .png, .jpg, and .jpeg images.)
+(not tested for macos or linux so hopefully it works there!)
 
 # How To Use
 
